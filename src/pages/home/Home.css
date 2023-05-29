@@ -1,0 +1,12 @@
+main {
+    margin: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 1rem;
+}
+main div img {
+    width: 150px;
+    height: fit-content;
+    border: 2px solid rgb(156, 156, 156);
+}
